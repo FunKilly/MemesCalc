@@ -1,7 +1,7 @@
 # Meme Calculator for ClearCode intern summer 2019 task
 
 Meme calculator is python script, function can be imported from main.py by 
-'from main.py import calculate'
+'from main import calculate'
 
 * Main goal
 
